@@ -7,24 +7,11 @@ url: ""
 # Delete the lines you don't need
 # about 5 elements are recomended
 github_username:  criacorpo
-codepen_username: 
+codepen_username: cdiegosr
 facebook_username: criacorpo
-vk_username: 
 twitter_username: criacorpo
-google_plus_username: 
-linkedin_username: 
-vine_username:  
 instagram_username:  criacorpo
-flickr_username: 
-steam_username:
-soundcloud_username:
-stack_of_username:
-reddit_username:
-medium_username:
-tumblr_username:
-weibo_username:
-lastfm_username:
-blog_url: "/blog"
+blog_url: "https://criacorpo.com.br/blog/"
 email: suporte@criacorpo.com.br
 public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
 
